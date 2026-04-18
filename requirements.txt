@@ -2,3 +2,5 @@ python-binance
 numpy
 pandas
 python-dotenv
+requests
+pytest

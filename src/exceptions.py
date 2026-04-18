@@ -3,3 +3,12 @@ class BuyError(Exception):
 
 class FetchError(Exception):
     pass
+
+class CancelError(Exception):
+    pass
+
+class BalanceError(Exception):
+    pass
+
+class OrderStatusError(Exception):
+    pass

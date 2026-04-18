@@ -1,14 +1,17 @@
-## **Crypto-Bot Roadmap**
+# **Crypto-Bot Roadmap**
 
-# Data Collection:
-x Find API
-x Connect API
-x Pull Historical Data
-x Sort Data into useful collections 
+### Data Collection:
+[] Find API
+[] Connect API
+[] Can use yfinance, exchange APIs
+[] Pull Historical Data
+[] Sort Data into useful collections 
 
 # Build Strategy Logic
-x Research for strategy
-x Build strategy
+[] Research for strategy
+[] Build strategy
+[] Execute using ccxt, alpaca-trade-api
 
 # Backtest Strategy on Historical Data
-x Create a backtesting framework to see if model would win in the past
+[] Create a backtesting framework to see if model would win in the past
+[] Maybe use backtrader, vectorbt

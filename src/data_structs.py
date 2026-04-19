@@ -40,7 +40,6 @@ class MarketDepth:
             out += f"\nAsk {i} Value: {ask}"
             
         return out
-        
 
 class Candle:
     def __init__(self, kline):
